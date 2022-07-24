@@ -45,7 +45,7 @@
 
   ## Link to App
 
-   [Link to Video Demo](https://blooming-fortress-51371.herokuapp.com/)
+   [Link to App](https://blooming-fortress-51371.herokuapp.com/)
 
   ## Questions
   [My Github Profile](https://github.com/Undisputed06)
