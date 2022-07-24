@@ -3,7 +3,7 @@
   ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)  
 
   ## Description
-  Budget Tracker is an app to track users money.  It has offline functionality which is paramount to  handling users financial information. The user is able to add expenses and deposits to their budget with or witho     ut a network connection
+  Budget Tracker is an app to track users money.  It has offline functionality which is paramount to  handling users financial information. The user is able to add expenses and deposits to their budget with or without a network connection
 
   ## Table of Contents
   * [Installation](#installation)
@@ -45,7 +45,7 @@
 
   ## Link to App
 
-   [Link to App](https://blooming-fortress-51371.herokuapp.com/)
+   [Link to Budget Tracker App](https://blooming-fortress-51371.herokuapp.com/)
 
   ## Questions
   [My Github Profile](https://github.com/Undisputed06)
